@@ -1,0 +1,236 @@
+body {
+  padding: 1% 4%;
+}
+
+h1 {
+  margin: 10px;
+  font-size: 45px;
+}
+
+hr {
+    width: 100%;
+    height: 5px;
+    background-color: orange;
+    border: 0 none;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 40px;
+}
+
+h3 {
+  margin: 5px 0px 10px 0;
+  font-size: 21px;
+  font-family: sans-serif;
+  line-height: 1.4;
+}
+
+.english {
+  margin: 20px 0 10px 0;
+  font-size: 21px;
+  font-family: sans-serif;
+  line-height: 1.4;
+  color: #1995fa;
+}
+
+h4 {
+  margin: 20px 10px 10px 0;
+  font-size: 21px;
+  font-family: sans-serif;
+  line-height: 1.4;
+}
+
+.examples {
+  margin: 0 20px 10px 0;
+}
+
+audio {
+  margin: 0 0 30px 15px;
+  padding: 0;
+}
+
+.sameContainer{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 0 10px;
+    width: 340px;
+}
+
+.sameContainer audio {
+  margin-right: 0;
+  margin-bottom: 40px;
+  width: 210px;
+}
+
+.sameContainer h3 {
+  padding-top: 5px;
+  width: 90px;
+  font-size: 1.6em;
+}
+
+.pContainer {
+  margin: 5px auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 20px 0 0 0;
+  max-width: 950px;
+}
+
+.highlighted {
+  background-color: orange;
+}
+
+.three {
+  height: 280px;
+}
+
+.two {
+  height: 200px;
+}
+
+.threePlusTitle {
+  height: 400px;
+  border-color: aquamarine;
+}
+
+p{
+  width: 800px;
+  font-size: 30px;
+  text-align: center;
+  background-color: aqua;
+  margin: 0 auto;
+}
+
+.twoContainer {
+  margin: 0px auto;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  max-width: 790px;
+}
+
+.twoContainer h5 { 
+  text-align: center;
+  max-width: 225px;
+  margin: 0 auto;
+  padding: 15px;
+}
+
+.twoSub {
+  width: 230px;
+  text-align: center;
+  margin-top: 10px;
+  padding-left: 5px;
+}
+
+.twoContainerSmall {
+  margin: 0px auto;
+  display: flex;
+  justify-content: center;
+  max-width: 1200px;
+  min-width: 250px;
+}
+
+.twoContainerSmall h5 { 
+  text-align: center;
+  padding: 0px;
+}
+
+.twoContainerSmall h3 { 
+  padding: 0px;
+  font-size: 26px;
+}
+
+.twoSubSmall {
+  margin-top: 10px;
+  padding-left: 5px;
+}
+
+.left {
+  max-width: 150px;
+  text-align: right;
+}
+
+.right {
+  max-width: 190px;
+  text-align: left;
+}
+
+.nleft {
+  max-width: 150px;
+  text-align: right;
+}
+
+.nright {
+  max-width: 530px;
+  text-align: left;
+}
+
+h5 {
+  font-size: 27px;
+  padding: 5px 20px;
+  margin: 0;
+}
+
+.table {
+  padding-left: 0px;
+}
+
+.verbAndExampleContainer {
+  margin: 15px auto;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  max-width: 550px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #1995fa;
+}
+
+.verbAndExampleContainer h5 { 
+  text-align: center;
+}
+
+.verbAndExampleSub {
+  width: 180px;
+  text-align: center;
+  margin-top: 10px;
+  padding: 0px;
+}
+
+.examples {
+  width: 220px;
+  padding: 0px;
+  margin-right: 0px;
+  margin-left: 10px;
+}
+
+.bigVerbContainer {
+  margin: 0px auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.center {
+  text-align: center;
+}
+
+.listHeader {
+  font-size: 28px;
+  font-style: bold;
+}
+
+h6 {
+  font-size: 20px;
+  margin: 0px;
+}
+
+.extraSpace {
+  margin-bottom: 23px;
+}
